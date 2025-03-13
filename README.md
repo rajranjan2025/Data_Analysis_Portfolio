@@ -30,11 +30,11 @@ This project presents an exploratory data analysis (EDA) of the **World Happines
 2. Open the given Jupyter Notebook and run the cells to explore the analysis.
 3. Refer to the provided **PDF summary** for key insights without running the notebook.
 
-## 💡 Contributions & Feedback
+## Contributions & Feedback
 Feel free to raise issues or contribute improvements to this project. Suggestions are always welcome!
 
 ---
 **Author:** Raj Ranjan Ojha  
-**GitHub:**   
+**GitHub:** (https://github.com/rajranjan2025)  
 **LinkedIn:**  
 
